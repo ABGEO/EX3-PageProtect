@@ -11,7 +11,7 @@
             <div class="glava">მაგ.3: გვერდის დაცვა პაროლით</div> <hr>
             <center>
                 <div class="successAuth">
-                    თქვენ წარმატებით გაიარეთ ავტორიზაცია </br>
+                    თქვენ წარმატებით გაიარეთ ავტორიზაცია</br>
                     შემდეგი ლოგინით: <? echo $adminLogin; ?>  და პაროლით: <? echo $adminPass; ?> </br></br>
                     <a href="?logout">გასვლა</a>
                 </div>
